@@ -1,52 +1,39 @@
 
-# Project Title
+# WeatherWise 🌤️
 
-A brief description of what this project does and who it's for
+WeatherWise is a modern, responsive weather dashboard that provides real-time weather updates, forecasts, and environmental highlights for cities around the globe. Built with HTML, CSS, and JavaScript, it integrates seamlessly with the OpenWeather API to deliver accurate weather information in a sleek, user-friendly interface.
 
 ## Tech Stack
 
-**Client:** HTML, CSS, JavaScript, API
+Frontend: HTML5, CSS3 (with CSS variables & responsive design), JavaScript (ES6+)
 
-## Demo
+APIs: OpenWeather API
 
-Insert gif or link to demo
+Assets: Material Icons, custom logos, and images
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+Current Weather: Get real-time temperature, humidity, wind speed, and conditions.
 
-## Screenshots
+Hourly & 5-Day Forecast: Detailed weather predictions for planning your week.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+Highlights Section: Quick insights into air quality, UV index, visibility, and more.
+
+Search Functionality: Find any city worldwide with autocomplete suggestions.
+
+Current Location Weather: Quickly fetch weather data for your current location.
+
+Responsive Design: Fully optimized for mobile, tablet, and desktop screens.
+
+Dark Mode Theme: Clean and modern dark UI for comfortable viewing.
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/BrajeshPrajapati003/WeatherWise.git
 ```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Open with VSCode
-
-```bash
-  code .
-```
-
-Open with live server
-
-```bash
-  npm run start
-```
-
 
 ## Authors
 
